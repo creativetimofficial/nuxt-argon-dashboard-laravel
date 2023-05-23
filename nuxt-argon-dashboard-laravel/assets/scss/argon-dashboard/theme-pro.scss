@@ -1,0 +1,37 @@
+/*!
+
+=========================================================
+* Vue Argon Dashboard 2 Pro - v3.0.0
+=========================================================
+
+* Product Page: https://www.creative-tim.com/product/vue-argon-dashboard-laravel
+* Copyright 2022 Creative Tim (https://www.creative-tim.com)
+
+* Coded by www.creative-tim.com
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+*/
+
+// {{ site.product.name }} Core styling components
+
+@import "theme";
+
+// Mixin
+@import "mixins/mixins";
+
+// PRO Components
+@import "accordion";
+@import "backgrounds";
+@import "cards-extend";
+@import "components";
+@import "dropdown-extend";
+@import "floating-elements";
+@import "misc-extend";
+@import "rtl-extend";
+@import "dark-version";
+
+// Plugins
+@import "plugins/pro/plugins-extend";
