@@ -1,8 +1,8 @@
 # [Nuxt Argon Dashboard 2 Laravel](http://creative-tim.com/product/nuxt-argon-dashboard-laravel/?ref=readme-nadp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel&text=Check%20Nuxt%Argon%20Dashboard%202%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#argondesign%20#vue%20https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nuxt-argon-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-nuxt-argon-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nuxt-argon-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-nuxt-argon-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nuxt-argon-dashboardlaravel.svg)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nuxt-argon-dashboard-laravel.svg)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg?1605100727)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/350/original/nuxt-argon-dashboard.jpg?1684832938)
 
 Start your Development with an Innovative Admin Template for Bootstrap 5 and Nuxt 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
