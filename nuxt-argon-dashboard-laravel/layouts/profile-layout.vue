@@ -12,7 +12,7 @@
       <Meta name="twitter:description"
         content="Free full stack app with Nuxt3 frontend and API-powered Laravel backend" />
       <Meta name="twitter:image"
-        content="https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg?1605100727" />
+        content="https://s3.amazonaws.com/creativetim_bucket/products/350/original/nuxt-argon-dashboard.jpg?168483293" />
       <Meta name="twitter:url" content="https://www.creative-tim.com/live/nuxt-argon-dashboard-laravel" />
       <Meta name="description" content="Free full stack app with Nuxt3 frontend and API-powered Laravel backend" />
       <Meta name="keywords"
@@ -22,7 +22,7 @@
       <Meta property="og:title" content="Nuxt Argon Dashboard 2 Laravel by Creative Tim & UPDIVISION" />
       <Meta property="og:url" content="https://www.creative-tim.com/live/nuxt-argon-dashboard-laravel" />
       <Meta property="og:image"
-        content="https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg?1605100727" />
+        content="https://s3.amazonaws.com/creativetim_bucket/products/350/original/nuxt-argon-dashboard.jpg?168483293" />
       <Meta property="product:price:amount" content="free" />
       <Meta property="product:price:currency" content="USD" />
       <Meta property="product:availability" content="in Stock" />
