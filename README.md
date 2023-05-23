@@ -12,16 +12,16 @@ Nuxt Argon Dashboard 2 is built with over 200 frontend individual elements, like
 This Premium Bootstrap 5 & Nuxt 3 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
 switching from our pages to the real website is very easy to be done.
 
-View [all components here](https://www.creative-tim.com/learning-lab/nuxt/alerts/argon-dashboard-laravel/).
+View [all components here](https://www.creative-tim.com/learning-lab/nuxt/alerts/argon-dashboard/).
 
 **Documentation built by Developers**<br />
 Each element is well presented in very complex documentation.
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/nuxt/overview/argon-dashboard-laravel/).
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/nuxt/overview/argon-dashboard/).
 
 **Example Pages**<br />
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Nuxt Argon Dashboard 2 has everything you need to quickly set up an amazing project.
 
-View [example pages here](https://demos.creative-tim.com/nuxt-argon-dashboard-laravel/).
+View [example pages here](https://nuxt-argon-dashboard-laravel.creative-tim.com).
 
 **HELPFUL LINKS**
 
