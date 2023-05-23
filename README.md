@@ -1,0 +1,1 @@
+# nuxt-argon-dashboard-laravel
