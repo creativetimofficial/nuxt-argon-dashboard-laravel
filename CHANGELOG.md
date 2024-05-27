@@ -2,6 +2,9 @@
 
 All notable changes to `Nuxt Argon Dashboard Laravel`  will be documented in this file.
 
+## Version 2.1.0
+- Update to Laravel 11.x
+
 ## Version 2.0.0
 - Set up Nuxt Argon 2 Dashboard Free
 - Login
